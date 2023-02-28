@@ -1,3 +1,4 @@
+![](https://wallpapers.com/images/featured/qmcgnudvclph45ia.jpg)
 # Pokémon JSON
 
 Pokemon JSON is a JSON structure with data from over 800 Pokemons. Containing name, number, description, type, species and photo.
